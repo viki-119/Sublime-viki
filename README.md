@@ -28,3 +28,8 @@ Alt+Shift+8 垂直分屏-2屏
 comm+shift+p 输入remove package 选择要删掉的插件即可
 ##for win:
 ctrl+shift+p 输入remove package 选择要删掉的插件即可
+
+##sublime 插件
+SublimeLinter 
+SublimeLinter-eslint
+Babel
