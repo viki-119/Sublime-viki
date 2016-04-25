@@ -25,6 +25,6 @@ Alt+Shift+8 垂直分屏-2屏
 
 #sublime text 删除安装的插件
 ##for mac:
-ctrl+shift+p
-输入remove package
-选择要删掉的插件即可
+comm+shift+p 输入remove package 选择要删掉的插件即可
+##for win:
+ctrl+shift+p 输入remove package 选择要删掉的插件即可
