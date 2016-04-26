@@ -30,6 +30,9 @@ comm+shift+p 输入remove package 选择要删掉的插件即可
 ctrl+shift+p 输入remove package 选择要删掉的插件即可
 
 ##sublime 插件
-SublimeLinter 
-SublimeLinter-eslint
-Babel
+SublimeLinter  
+SublimeLinter-eslint  实时监测代码规则
+Babel  es代码格式  
+Material Theme  =>sublime主题  
+HTML-CSS-JSPrettify  =>用于Json数据展示
+
