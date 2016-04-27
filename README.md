@@ -37,3 +37,5 @@ Material Theme  =>sublime主题
 HTML-CSS-JSPrettify  =>用于Json数据展示
 
 install package control : https://packagecontrol.io/installation#st3
+
+sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime-text-3-install-and-setup.md
