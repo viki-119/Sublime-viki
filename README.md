@@ -36,3 +36,4 @@ Babel  es代码格式
 Material Theme  =>sublime主题  
 HTML-CSS-JSPrettify  =>用于Json数据展示
 
+install package control : https://packagecontrol.io/installation#st3
