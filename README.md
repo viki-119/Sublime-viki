@@ -2,7 +2,7 @@
 http://www.jb51.net/softjc/180873.html
 
 Ctrl+Shift+D 复制光标所在整行，插入到下一行。  Comm+Shift+D   for mac   
-Ctrl+Shift+⬆️⬇，交换上下行。  Comm+Ctrl+⬆️⬇️  for mac   
+Ctrl+Shift+↑↓，交换上下行。  Comm+Ctrl+↑↓️  for mac   
 Ctrl+D：选择单词，重复可增加选择下一个相同的单词   Comm+D   for mac   
 Ctrl+X：删除当前行  Ctrl+Shift+K 删除整行。  
 Ctrl+P：搜索项目中的文件    Comm+P  for mac   
@@ -38,7 +38,12 @@ http://www.sublimelinter.com/en/latest/installation.html#installing-from-source
 SublimeLinter-eslint  实时监测代码规则  http://jonathancreamer.com/setup-eslint-with-es6-in-sublime-text/   
 Babel  es代码格式  
 Material Theme  =>sublime主题  
-HTML-CSS-JSPrettify  =>用于Json数据展示
+HTML-CSS-JSPrettify  =>用于Json数据展示  
+
+sideBarEnhancements：  
+Sublimelinter-contrib-eslint： 
+eslint：  
+emmet：  
 
 install package control : https://packagecontrol.io/installation#st3
 
