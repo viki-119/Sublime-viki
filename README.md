@@ -9,6 +9,7 @@ Ctrl+P：搜索项目中的文件    Comm+P  for mac
 Ctrl+H：替换  Comm+Shift+F  for mac
 Ctrl+/：注释当前行  Comm+/  for mac 
 Ctrl+L：选择行，重复可依次增加选择下一行  Comm+L  for mac
+Ctrl+Alt+Enter 调出zencoding的心印(koan)，koan一词源于佛语。  Ctrl+Option+Enter  for mac   
 
 Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。  
 Ctrl+M 光标移动至括号内结束或开始的位置。  
