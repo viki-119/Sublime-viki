@@ -43,10 +43,11 @@ HTML-CSS-JSPrettify  =>用于Json数据展示
 
 sideBarEnhancements：  
 Sublimelinter-contrib-eslint： 
-eslint：  https://github.com/roadhump/SublimeLinter-eslint   //node下需要安装eslint
+eslint：https://github.com/roadhump/SublimeLinter-eslint   //node下需要安装eslint
 emmet：  
 
 install package control : https://packagecontrol.io/installation#st3
 
 sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime-text-3-install-and-setup.md
 
+在安装gitdesktop的时候，打开全局通过GAEProxy代理，早上5:47分成功一次；
