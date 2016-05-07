@@ -33,6 +33,13 @@ comm+shift+p 输入remove package 选择要删掉的插件即可
 ctrl+shift+p 输入remove package 选择要删掉的插件即可
 
 ##sublime 插件
+install package control : https://packagecontrol.io/installation#st3
+1.sublimeLinter：http://www.sublimelinter.com/en/latest/installation.html#installing-from-source    
+2.SublimeLinter-eslint：https://github.com/roadhump/SublimeLinter-eslint  
+3.Babel
+
+emmet： 
+插件介绍：    
 SublimeLinter    http://www.sublimelinter.com/en/latest/   
 http://www.sublimelinter.com/en/latest/installation.html#installing-from-source  
 
@@ -44,10 +51,8 @@ HTML-CSS-JSPrettify  =>用于Json数据展示
 sideBarEnhancements：  
 Sublimelinter-contrib-eslint： 
 eslint：https://github.com/roadhump/SublimeLinter-eslint   //node下需要安装eslint
-emmet：  
-
-install package control : https://packagecontrol.io/installation#st3
 
 sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime-text-3-install-and-setup.md
 
+##安装gitdesktop：
 在安装gitdesktop的时候，打开全局通过GAEProxy代理，早上5:47分成功一次；
