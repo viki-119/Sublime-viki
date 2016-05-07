@@ -43,7 +43,7 @@ HTML-CSS-JSPrettify  =>用于Json数据展示
 
 sideBarEnhancements：  
 Sublimelinter-contrib-eslint： 
-eslint：  
+eslint：  https://github.com/roadhump/SublimeLinter-eslint 
 emmet：  
 
 install package control : https://packagecontrol.io/installation#st3
