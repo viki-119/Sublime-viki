@@ -39,6 +39,7 @@ install package control : https://packagecontrol.io/installation#st3
 3.Babel:es代码格式    
 
 eslint: eslint最大的吸引力就在于可以支持js、jsx、es6(es2015)等代码的检测     
+http://a.th7.cn/?src=http%3A%2F%2Fwww.th7.cn%2Fweb%2Fjs%2F201511%2F135935.shtml     
 1.先安装两个nodejs插件:   
   npm install eslint -g;   
   npm install babel-eslint -g;    
