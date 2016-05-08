@@ -33,10 +33,18 @@ comm+shift+p 输入remove package 选择要删掉的插件即可
 ctrl+shift+p 输入remove package 选择要删掉的插件即可
 
 ##sublime 插件
-install package control : https://packagecontrol.io/installation#st3
+install package control : https://packagecontrol.io/installation#st3    
 1.sublimeLinter：http://www.sublimelinter.com/en/latest/installation.html#installing-from-source    
-2.SublimeLinter-eslint：https://github.com/roadhump/SublimeLinter-eslint  
-3.Babel
+2.SublimeLinter-eslint：https://github.com/roadhump/SublimeLinter-eslint    
+3.Babel   
+
+eslint: eslint最大的吸引力就在于可以支持js、jsx、es6(es2015)等代码的检测     
+1.先安装两个nodejs插件:    
+  npm install eslint -g;   
+  npm install babel-eslint -g;    
+2.在sublime里安装eslint插件:调出package control搜索eslint安装即可;     
+  全名：SublimeLinter-contrib-eslint;    
+  注意：该插件只支持Sublime text 3;     
 
 emmet： 
 插件介绍：    
