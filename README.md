@@ -34,31 +34,25 @@ ctrl+shift+p 输入remove package 选择要删掉的插件即可
 
 ##sublime 插件
 install package control : https://packagecontrol.io/installation#st3    
-1.sublimeLinter：http://www.sublimelinter.com/en/latest/installation.html#installing-from-source    
+1.sublimeLinter：http://www.sublimelinter.com/en/latest/installation.html#installing-via-pc    
 2.SublimeLinter-eslint：https://github.com/roadhump/SublimeLinter-eslint    
-3.Babel   
+3.Babel:es代码格式    
 
 eslint: eslint最大的吸引力就在于可以支持js、jsx、es6(es2015)等代码的检测     
-1.先安装两个nodejs插件:    
+1.先安装两个nodejs插件:   
   npm install eslint -g;   
   npm install babel-eslint -g;    
 2.在sublime里安装eslint插件:调出package control搜索eslint安装即可;     
-  全名：SublimeLinter-contrib-eslint;    
+  全名：SublimeLinter-contrib-eslint;     https://github.com/roadhump/SublimeLinter-eslint     
   注意：该插件只支持Sublime text 3;     
 
-emmet： 
 插件介绍：    
-SublimeLinter    http://www.sublimelinter.com/en/latest/   
-http://www.sublimelinter.com/en/latest/installation.html#installing-from-source  
+emmet： 
+sideBarEnhancements： 
 
 SublimeLinter-eslint  实时监测代码规则  http://jonathancreamer.com/setup-eslint-with-es6-in-sublime-text/   
-Babel  es代码格式  
 Material Theme  =>sublime主题  
 HTML-CSS-JSPrettify  =>用于Json数据展示  
-
-sideBarEnhancements：  
-Sublimelinter-contrib-eslint： 
-eslint：https://github.com/roadhump/SublimeLinter-eslint   //node下需要安装eslint
 
 sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime-text-3-install-and-setup.md
 
