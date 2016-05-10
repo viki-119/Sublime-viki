@@ -47,7 +47,7 @@ http://a.th7.cn/?src=http%3A%2F%2Fwww.th7.cn%2Fweb%2Fjs%2F201511%2F135935.shtml
   全名：SublimeLinter-contrib-eslint;     https://github.com/roadhump/SublimeLinter-eslint     
   注意：该插件只支持Sublime text 3;     
 
-插件介绍：    
+插件介绍： 如果遇到插件不好用的问题，怎可以考虑退出quit sublime text for mac comm+Q 快捷键；   
 emmet： 
 sideBarEnhancements： 
 
