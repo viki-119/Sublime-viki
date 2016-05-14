@@ -6,9 +6,9 @@ Ctrl+Shift+↑↓，交换上下行。  Comm+Ctrl+↑↓️  for mac
 Ctrl+D：选择单词，重复可增加选择下一个相同的单词   Comm+D   for mac   
 Ctrl+X：删除当前行  Ctrl+Shift+K 删除整行。  
 Ctrl+P：搜索项目中的文件    Comm+P  for mac   
-Ctrl+H：替换  Comm+Shift+F  for mac
-Ctrl+/：注释当前行  Comm+/  for mac 
-Ctrl+L：选择行，重复可依次增加选择下一行  Comm+L  for mac
+Ctrl+H：替换  Comm+Shift+F  for mac  
+Ctrl+/：注释当前行  Comm+/  for mac  
+Ctrl+L：选择行，重复可依次增加选择下一行  Comm+L  for mac  
 Ctrl+Alt+Enter 调出zencoding的心印(koan)，koan一词源于佛语。  Ctrl+Option+Enter  for mac   
 
 Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。  
