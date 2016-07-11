@@ -62,3 +62,4 @@ sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime
 
 # visual stdio code
 [下载链接](http://code.visualstudio.com/Download)
+[markdownPad](http://markdownpad.com/news/2013/new-languages-zh-CH-and-pt-PT/)
