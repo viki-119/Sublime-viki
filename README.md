@@ -62,3 +62,4 @@ sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime
 
 # visual stdio code
 http://code.visualstudio.com/Docs/?dv=osx
+[下载链接](http://code.visualstudio.com/Download)
