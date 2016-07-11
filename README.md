@@ -59,3 +59,6 @@ sublime推荐配置：http://learnshare.xianbai.me/blog/#/articles/posts/sublime
 
 ##安装gitdesktop：
 在安装gitdesktop的时候，打开全局通过GAEProxy代理，早上5:47分成功一次；
+
+# visual stdio code
+http://code.visualstudio.com/Docs/?dv=osx
