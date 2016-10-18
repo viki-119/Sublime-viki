@@ -34,6 +34,7 @@ ctrl+shift+p 输入remove package 选择要删掉的插件即可
 
 ##sublime 插件
 install package control : https://packagecontrol.io/installation#st3    
+sublime集成ESlint需要安装两个插件SublimeLinter、SublimeLinter-contrib-eslint 才能正常使用: http://blog.csdn.net/lj745280746/article/details/49658249
 1.sublimeLinter：http://www.sublimelinter.com/en/latest/installation.html#installing-via-pc    
 2.SublimeLinter-eslint：https://github.com/roadhump/SublimeLinter-eslint    
 3.Babel:es代码格式    
